@@ -1,94 +1,206 @@
-# Казино с друзьями Trainer +54 Free Download 2026
+# Казино с друзьями Trainer (+54) — Free Download 2026
 
-**EN** · **RU трейнер** · **ZH 修改器** · **ES entrenador** · **PT-BR** · **DE Trainer** · **FR** · **TR hile** · **KO 트레이너** · **JA トレーナー**
+<p align="left">
+  <a href="https://moggydaytrainer.com/en/f/casino-s-druzyami-trainer"><img alt="Download English trainer" src="https://img.shields.io/badge/⬇%20Download-English%20trainer-2563eb?style=for-the-badge"></a>
+  <a href="https://moggydaytrainer.com/f/casino-s-druzyami-trainer"><img alt="Russian page" src="https://img.shields.io/badge/Русская%20страница-1d4ed8?style=for-the-badge"></a>
+  <a href="https://moggydaytrainer.com/zh/f/casino-s-druzyami-trainer"><img alt="Chinese page" src="https://img.shields.io/badge/中文%20页面-1e40af?style=for-the-badge"></a>
+  <a href="https://moggydaytrainer.com/en/g/casino-s-druzyami"><img alt="Game hub" src="https://img.shields.io/badge/Казино%20с%20друзьями%20hub-334155?style=for-the-badge"></a>
+  <a href="https://moggydaytrainer.com/en/games"><img alt="All trainers" src="https://img.shields.io/badge/MoggyDay%20catalog-0f766e?style=for-the-badge"></a>
+</p>
 
-**Казино с друзьями trainer**, **Казино с друзьями trainer download**, **Казино с друзьями cheat**, **Казино с друзьями hack**, **Казино с друзьями cheats**,
-**скачать трейнер Казино с друзьями**, **трейнер Казино с друзьями 2026**, **Казино с друзьями 修改器** — MoggyDay.
 
-**Казино с друзьями trainer +54** free download 2026 — Казино с друзьями cheat / Казино с друзьями hack / скачать трейнер Казино с друзьями. Works on the current Steam patch.
+MoggyDay hosts the official **Казино с друзьями** trainer for Windows (v1.0.0, **+54** toggles). This repository is a public mirror: game context, screenshots, and the full feature list. The download button lives only on [moggydaytrainer.com](https://moggydaytrainer.com) — there is **no `.exe` in git**.
 
-**Download (current patch):** [https://moggydaytrainer.com/en/f/casino-s-druzyami-trainer](https://moggydaytrainer.com/en/f/casino-s-druzyami-trainer)  
-**RU:** [https://moggydaytrainer.com/f/casino-s-druzyami-trainer](https://moggydaytrainer.com/f/casino-s-druzyami-trainer)  
-**CN 修改器:** [https://moggydaytrainer.com/zh/f/casino-s-druzyami-trainer](https://moggydaytrainer.com/zh/f/casino-s-druzyami-trainer)
+## About Казино с друзьями
 
-## Казино с друзьями trainer — current Steam patch
+Казино с друзьями is a PC game. MoggyDay documents a dedicated trainer with live toggles for single-player and offline sessions. It is listed in the MoggyDay catalog as a Windows title (Steam app 3892270).
 
-Works on the **latest PC / Steam patch** (v1.0.0). After a game update, reload the same URL.
+## About the MoggyDay trainer
 
-| # | Option |
-|---|---|
-| 1 | energy |
-| 2 | chips |
+Skip random mirrors. The Казино с друзьями trainer file is the primary button on https://moggydaytrainer.com/en/f/casino-s-druzyami-trainer. Options include Infinite Luck, Edit Luck, Edit Max Luck, Luck Drain Rate, Luck Multiplier. After a game patch, refresh that same URL — do not hunt a new GitHub repo. [Казино с друзьями trainers tab](https://moggydaytrainer.com/g/casino-s-druzyami/trainers) lists every pack for the game.
 
-No `.exe` in this GitHub tree. The **Казино с друзьями trainer free download** button is on moggydaytrainer.com.
+## Screenshots
 
-## Keywords
+[![Казино с друзьями cover](https://moggydaytrainer.com/media/covers/casino-s-druzyami-35cdbe52d9.jpg)](https://moggydaytrainer.com/en/f/casino-s-druzyami-trainer)
 
-`Казино с друзьями trainer` · `Казино с друзьями trainer free` · `Казино с друзьями trainer 2026` · `Казино с друзьями cheat` · `Казино с друзьями hack` ·
-`скачать трейнер Казино с друзьями` · `трейнер Казино с друзьями бесплатно` · `Казино с друзьями 修改器` · `Казино с друзьями entrenador` ·
-`Казино с друзьями trainer baixar` · `Казино с друзьями Trainer kostenlos` · `Казино с друзьями trainer gratuit` · `Казино с друзьями hile` ·
-`Казино с друзьями トレーナー` · `Казино с друзьями 트레이너` · MoggyDay TrainerHub
+Shots from the live [Казино с друзьями trainer page](https://moggydaytrainer.com/en/f/casino-s-druzyami-trainer):
 
-## Languages
-**EN** · **RU трейнер** · **ZH 修改器** · **ES entrenador** · **PT-BR baixar** · **DE Trainer** · **FR trainer** · **TR hile** · **PL** · **IT** · **KO 트레이너** · **JA トレーナー** · **VI** · **ID** · **AR تحميل** · **UK трейнер**
+[![Казино с друзьями page](https://moggydaytrainer.com/media/shots/hub-casino-s-druzyami/page.png)](https://moggydaytrainer.com/en/f/casino-s-druzyami-trainer)
 
-## ZH 中文 — Казино с друзьями 修改器 +54
+[![Казино с друзьями options 1](https://moggydaytrainer.com/media/shots/hub-casino-s-druzyami/fn-1.png)](https://moggydaytrainer.com/en/f/casino-s-druzyami-trainer)
 
-**Казино с друзьями 修改器**免费下载 2026：无限生命、无限弹药、无后坐力、无需换弹、一击必杀。 当前 Steam 补丁。下载：<https://moggydaytrainer.com/zh/f/casino-s-druzyami-trainer>
+[![Казино с друзьями options 2](https://moggydaytrainer.com/media/shots/hub-casino-s-druzyami/fn-2.png)](https://moggydaytrainer.com/en/f/casino-s-druzyami-trainer)
 
-## ES Español — trainer Казино с друзьями +54
+[![Казино с друзьями options 3](https://moggydaytrainer.com/media/shots/hub-casino-s-druzyami/fn-3.png)](https://moggydaytrainer.com/en/f/casino-s-druzyami-trainer)
 
-**Trainer Казино с друзьями** descarga gratis 2026: dios, munición infinita, sin retroceso, sin recarga, one hit kill. Parche actual de Steam. Descarga: <https://moggydaytrainer.com/en/f/casino-s-druzyami-trainer>
+## Trainer features (+54)
 
-## PT-BR Português — trainer Казино с друзьями +54
+The table matches the live launcher pack. Hotkeys may change after a patch — confirm on the [English trainer page](https://moggydaytrainer.com/en/f/casino-s-druzyami-trainer).
 
-**Trainer Казино с друзьями** baixar grátis 2026: modo deus, munição infinita, sem recuo, sem reload, one hit kill. Patch atual da Steam. Download: <https://moggydaytrainer.com/en/f/casino-s-druzyami-trainer>
+| # | Feature | Category | Hotkey | Type |
+|---:|---|---|---|---|
+| 1 | Infinite Luck | Progress | Num 1 | Toggle |
+| 2 | Edit Luck | Progress | Num 2 | Value |
+| 3 | Edit Max Luck | Progress | Num 3 | Value |
+| 4 | Luck Drain Rate | Progress | Num 4 | Value |
+| 5 | Luck Multiplier | Progress | Num 5 | Value |
+| 6 | Infinite Energy | Player | Num 6 | Toggle |
+| 7 | Edit Energy | Player | Num 7 | Value |
+| 8 | Edit Max Energy | Player | Num 8 | Value |
+| 9 | Energy Drain Rate | Player | Num 9 | Value |
+| 10 | Energy Multiplier | Player | Num 0 | Value |
+| 11 | Infinite Chips | Economy | Num . | Toggle |
+| 12 | Edit Chips | Economy | Num * | Value |
+| 13 | Chips Multiplier | Economy | Num + | Value |
+| 14 | Infinite Cash | Economy | Num - | Toggle |
+| 15 | Edit Cash | Economy | Ctrl+Num 1 | Value |
+| 16 | Cash Multiplier | Economy | Ctrl+Num 2 | Value |
+| 17 | Always Win Hands | Progress | Ctrl+Num 3 | Toggle |
+| 18 | Slots Always Jackpot | Progress | Ctrl+Num 4 | Toggle |
+| 19 | No Table Limit | Economy | Ctrl+Num 5 | Toggle |
+| 20 | Friends Always Join | Social | Ctrl+Num 6 | Toggle |
+| 21 | Skip Shuffle Wait | Time | Ctrl+Num 7 | Toggle |
+| 22 | Unlock All Tables | Unlocks | Ctrl+Num 8 | Toggle |
+| 23 | Unlock All Games | Unlocks | Ctrl+Num 9 | Toggle |
+| 24 | Unlock All Cosmetics | Unlocks | Ctrl+Num 0 | Toggle |
+| 25 | Unlock All Rooms | Unlocks | Ctrl+Num . | Toggle |
+| 26 | Super Speed | Movement | Ctrl+Num * | Toggle |
+| 27 | No Fall Damage | Movement | Ctrl+Num + | Toggle |
+| 28 | Save Position | Misc | Ctrl+Num - | Toggle |
+| 29 | Load Position | Misc | Alt+Num 1 | Toggle |
+| 30 | Freeze Time | Time | Alt+Num 2 | Toggle |
+| 31 | Slow Motion | Time | Alt+Num 3 | Toggle |
+| 32 | Instant Save | Misc | Alt+Num 4 | Toggle |
+| 33 | Set Game Speed | Time | Alt+Num 5 | Speed |
+| 34 | Set Player Speed | Movement | Alt+Num 6 | Value |
+| 35 | Luck Gain Rate | Progress | Alt+Num 7 | Value |
+| 36 | Energy Gain Rate | Player | Alt+Num 8 | Value |
+| 37 | Chips Gain Rate | Economy | Alt+Num 9 | Value |
+| 38 | Cash Gain Rate | Economy | Alt+Num 0 | Value |
+| 39 | Luck Never Decreases | Progress | Alt+Num . | Toggle |
+| 40 | Energy Never Decreases | Player | Alt+Num * | Toggle |
+| 41 | Chips Never Decreases | Economy | Alt+Num + | Toggle |
+| 42 | Cash Never Decreases | Economy | Alt+Num - | Toggle |
+| 43 | No Luck Cap | Progress | Shift+F1 | Toggle |
+| 44 | No Energy Cap | Player | Shift+F2 | Toggle |
+| 45 | No Chips Cap | Economy | Shift+F3 | Toggle |
+| 46 | No Cash Cap | Economy | Shift+F4 | Toggle |
+| 47 | Min Luck | Progress | Shift+F5 | Value |
+| 48 | Min Energy | Player | Shift+F6 | Value |
+| 49 | Min Chips | Economy | Shift+F7 | Value |
+| 50 | Min Cash | Economy | Shift+F8 | Value |
+| 51 | Freeze Luck | Progress | Shift+F9 | Toggle |
+| 52 | Freeze Energy | Player | Shift+F10 | Toggle |
+| 53 | Freeze Chips | Economy | Shift+F11 | Toggle |
+| 54 | Freeze Cash | Economy | Shift+F12 | Toggle |
 
-## DE Deutsch — Казино с друзьями Trainer +54
+### Tips
 
-**Казино с друзьями Trainer** kostenlos download 2026: Gottmodus, unendlich Munition, kein Rückstoß, kein Nachladen, One-Hit-Kill. Aktueller Steam-Patch. Download: <https://moggydaytrainer.com/en/f/casino-s-druzyami-trainer>
+- **Infinite Luck** — Usually the first toggle people enable on a Казино с друзьями trainer.
+- **Edit Luck** — Check this after every Казино с друзьями patch — values often shift.
+- **Edit Max Luck** — Leave it off if you only want a mild resource boost.
+- **Luck Drain Rate** — Pairs with the other combat toggles on the Казино с друзьями page.
+- **Luck Multiplier** — Use it to skip a grind, then turn it back off.
+- **Infinite Energy** — Read the live hotkey next to this name on MoggyDay.
+- **Edit Energy** — Game-specific: the Казино с друзьями listing explains the exact effect.
+- **Edit Max Energy** — If two options overlap, enable one and test in a safe save.
+- **Energy Drain Rate** — Keep a screenshot of your preferred set from the site page.
+- **Energy Multiplier** — Not every option is safe in every mission — test first.
+- **Infinite Chips** — The RU page uses the same toggle order.
+- **Edit Chips** — Ask in comments on the trainer page if a name is unclear.
+- **Chips Multiplier** — Usually the first toggle people enable on a Казино с друзьями trainer.
+- **Infinite Cash** — Check this after every Казино с друзьями patch — values often shift.
+- **Edit Cash** — Leave it off if you only want a mild resource boost.
+- **Cash Multiplier** — Pairs with the other combat toggles on the Казино с друзьями page.
+- **Always Win Hands** — Use it to skip a grind, then turn it back off.
+- **Slots Always Jackpot** — Read the live hotkey next to this name on MoggyDay.
+- **No Table Limit** — Game-specific: the Казино с друзьями listing explains the exact effect.
+- **Friends Always Join** — If two options overlap, enable one and test in a safe save.
+- **Skip Shuffle Wait** — Keep a screenshot of your preferred set from the site page.
+- **Unlock All Tables** — Not every option is safe in every mission — test first.
+- **Unlock All Games** — The RU page uses the same toggle order.
+- **Unlock All Cosmetics** — Ask in comments on the trainer page if a name is unclear.
+- **Unlock All Rooms** — Usually the first toggle people enable on a Казино с друзьями trainer.
+- **Super Speed** — Check this after every Казино с друзьями patch — values often shift.
+- **No Fall Damage** — Leave it off if you only want a mild resource boost.
+- **Save Position** — Pairs with the other combat toggles on the Казино с друзьями page.
+- **Load Position** — Use it to skip a grind, then turn it back off.
+- **Freeze Time** — Read the live hotkey next to this name on MoggyDay.
+- **Slow Motion** — Game-specific: the Казино с друзьями listing explains the exact effect.
+- **Instant Save** — If two options overlap, enable one and test in a safe save.
+- **Set Game Speed** — Keep a screenshot of your preferred set from the site page.
+- **Set Player Speed** — Not every option is safe in every mission — test first.
+- **Luck Gain Rate** — The RU page uses the same toggle order.
+- **Energy Gain Rate** — Ask in comments on the trainer page if a name is unclear.
+- **Chips Gain Rate** — Usually the first toggle people enable on a Казино с друзьями trainer.
+- **Cash Gain Rate** — Check this after every Казино с друзьями patch — values often shift.
+- **Luck Never Decreases** — Leave it off if you only want a mild resource boost.
+- **Energy Never Decreases** — Pairs with the other combat toggles on the Казино с друзьями page.
+- **Chips Never Decreases** — Use it to skip a grind, then turn it back off.
+- **Cash Never Decreases** — Read the live hotkey next to this name on MoggyDay.
+- **No Luck Cap** — Game-specific: the Казино с друзьями listing explains the exact effect.
+- **No Energy Cap** — If two options overlap, enable one and test in a safe save.
+- **No Chips Cap** — Keep a screenshot of your preferred set from the site page.
+- **No Cash Cap** — Not every option is safe in every mission — test first.
+- **Min Luck** — The RU page uses the same toggle order.
+- **Min Energy** — Ask in comments on the trainer page if a name is unclear.
+- **Min Chips** — Usually the first toggle people enable on a Казино с друзьями trainer.
+- **Min Cash** — Check this after every Казино с друзьями patch — values often shift.
+- **Freeze Luck** — Leave it off if you only want a mild resource boost.
+- **Freeze Energy** — Pairs with the other combat toggles on the Казино с друзьями page.
+- **Freeze Chips** — Use it to skip a grind, then turn it back off.
+- **Freeze Cash** — Read the live hotkey next to this name on MoggyDay.
 
-## FR Français — trainer Казино с друзьями +54
+## Download
 
-**Trainer Казино с друзьями** télécharger gratuit 2026 : mode dieu, munitions infinies, sans recul, sans rechargement, one hit kill. Patch Steam actuel. Télécharger : <https://moggydaytrainer.com/en/f/casino-s-druzyami-trainer>
+1. Open **[Казино с друзьями trainer +54: luck, energy, chips, cash [v1.0.0]](https://moggydaytrainer.com/en/f/casino-s-druzyami-trainer)** (or [Russian listing](https://moggydaytrainer.com/f/casino-s-druzyami-trainer), [Chinese listing](https://moggydaytrainer.com/zh/f/casino-s-druzyami-trainer)).
+2. Confirm the domain is **moggydaytrainer.com**.
+3. Use the primary **Free download** button on that page.
+4. After a Казино с друзьями update, reload the same URL — the slug `/f/casino-s-druzyami-trainer` never moves.
 
-## TR Türkçe — Казино с друзьями trainer / hile +54
+## Install (Windows)
 
-**Казино с друзьями trainer / hile** ücretsiz indir 2026: ölümsüzlük, sonsuz mermi, no recoil, no reload, tek vuruş. Güncel Steam yaması. İndir: <https://moggydaytrainer.com/en/f/casino-s-druzyami-trainer>
+1. Close Казино с друзьями before trying a new build.
+2. Run only files from MoggyDay for `casino-s-druzyami-trainer`.
+3. Enable a few toggles first, not the entire +54 list.
+4. Keep a backup save before resource or progression edits.
 
-## PL Polski — trainer Казино с друзьями +54
+## FAQ
 
-**Trainer Казино с друзьями** pobierz za darmo 2026: nieśmiertelność, nieskończona amunicja, brak odrzutu, bez przeładowania, one hit kill. Aktualny patch Steam. Pobierz: <https://moggydaytrainer.com/en/f/casino-s-druzyami-trainer>
+## FAQ
 
-## IT Italiano — trainer Казино с друзьями +54
+**Is the Казино с друзьями trainer file inside this repository?**
+No. Only MoggyDay hosts it: [https://moggydaytrainer.com/en/f/casino-s-druzyami-trainer](https://moggydaytrainer.com/en/f/casino-s-druzyami-trainer).
 
-**Trainer Казино с друзьями** scarica gratis 2026: modalità dio, munizioni infinite, no recoil, no reload, one hit kill. Patch Steam attuale. Download: <https://moggydaytrainer.com/en/f/casino-s-druzyami-trainer>
+**How many options are in v1.0.0?**
+The live title says **+54**. God mode, health, stamina and the game-specific row are on that page and can move when Казино с друзьями patches.
 
-## KO 한국어 — Казино с друзьями 트레이너 +54
+**Is there a Russian page?**
+Yes — [Казино с друзьями «Трейнер +54: макс. удача, бесконечная энергия, фишки, деньги» [v1.0.0]](https://moggydaytrainer.com/f/casino-s-druzyami-trainer). Same build, RU copy, RU comments.
 
-**Казино с друзьями 트레이너** 무료 다운로드 2026: 무적, 무한 탄약, 반동 없음, 재장전 없음, 원히트 킬. 최신 스팀 패치. 다운로드: <https://moggydaytrainer.com/en/f/casino-s-druzyami-trainer>
+**Where are updates posted?**
+[Казино с друзьями hub](https://moggydaytrainer.com/g/casino-s-druzyami) and [Казино с друзьями news](https://moggydaytrainer.com/g/casino-s-druzyami/news). Bookmark `/f/casino-s-druzyami-trainer`.
 
-## JA 日本語 — Казино с друзьями トレーナー +54
+**Why GitHub at all?**
+So `Казино с друзьями trainer` search has a documented page with screenshots that points at the real download, instead of a dead file host.
 
-**Казино с друзьями トレーナー** 無料ダウンロード 2026：ゴッドモード、無限弾薬、無反動、リロード不要、ワンヒットキル。現行Steamパッチ。ダウンロード：<https://moggydaytrainer.com/en/f/casino-s-druzyami-trainer>
 
-## VI Tiếng Việt — trainer Казино с друзьями +54
+## Search terms (English)
 
-**Trainer Казино с друзьями** tải miễn phí 2026: bất tử, đạn vô hạn, không giật, không nạp đạn, one hit kill. Patch Steam hiện tại. Tải: <https://moggydaytrainer.com/en/f/casino-s-druzyami-trainer>
+`trainer download`, `trainerhub moggyday`, `скачать трейнер`, `free trainer download`, `2026`, `moggyday trainer`, `трейнер moggyday`, `деньги`, `официальный трейнер`, `energy`, `бесконечная энергия`, `cash`, `казино с друзьями trainer`, `казино с друзьями трейнер`
 
-## ID Indonesia — trainer Казино с друзьями +54
+## Other languages
 
-**Trainer Казино с друзьями** unduh gratis 2026: god mode, peluru tak terbatas, tanpa recoil, tanpa reload, one hit kill. Patch Steam terbaru. Unduh: <https://moggydaytrainer.com/en/f/casino-s-druzyami-trainer>
+- Russian copy: [ru.md](ru.md) · live page [https://moggydaytrainer.com/f/casino-s-druzyami-trainer](https://moggydaytrainer.com/f/casino-s-druzyami-trainer)
+- Chinese page: [https://moggydaytrainer.com/zh/f/casino-s-druzyami-trainer](https://moggydaytrainer.com/zh/f/casino-s-druzyami-trainer)
 
-## AR العربية — ترينر Казино с друзьями +54
+## Other MoggyDay trainers
 
-**ترينر Казино с друзьями** تحميل مجاني 2026: وضع الإله، ذخيرة لا نهائية، بدون ارتداد، بدون إعادة تعبئة، قتلة بضربة واحدة. باتش ستيم الحالي. التحميل: <https://moggydaytrainer.com/en/f/casino-s-druzyami-trainer>
+- [Train Sim World® 7 trainer +54: fuel / electric, brake air, timetable score, dovetail points [v1.0.0]](https://moggydaytrainer.com/en/f/train-sim-world-7-trainer) · [RU](https://moggydaytrainer.com/f/train-sim-world-7-trainer)
+- [Big Ambitions trainer +54: energy, hunger, hygiene, money, xp [v1.0.0]](https://moggydaytrainer.com/en/f/big-ambitions-trainer) · [RU](https://moggydaytrainer.com/f/big-ambitions-trainer)
+- [Big Walk trainer +54: stamina, curiosity meter, found objects, postcards [v1.0.0]](https://moggydaytrainer.com/en/f/big-walk-trainer) · [RU](https://moggydaytrainer.com/f/big-walk-trainer)
+- [Ore Factory Squad ⛏️ trainer +54: stamina, machine power, ore, ingots, cash, co-op shared storage infinite [v1.0.0]](https://moggydaytrainer.com/en/f/ore-factory-squad-trainer) · [RU](https://moggydaytrainer.com/f/ore-factory-squad-trainer)
 
-## UK Українська — трейнер Казино с друзьями +54
+## About this mirror
 
-**Трейнер Казино с друзьями** скачати безкоштовно 2026: безсмертя, нескінченні набої, без віддачі, без перезарядки, ваншот. Актуальний патч Steam. Завантажити: <https://moggydaytrainer.com/f/casino-s-druzyami-trainer>
-
-## RU — трейнер Казино с друзьями +54 скачать бесплатно
-
-**Трейнер Казино с друзьями** скачать бесплатно 2026: бессмертие, бесконечные патроны, без отдачи, без перезарядки, ваншот. Актуальный патч Steam. Скачать: <https://moggydaytrainer.com/f/casino-s-druzyami-trainer>
-
+Maintained by `veenx0704` for SEO transparency. Canonical download: [https://moggydaytrainer.com/en/f/casino-s-druzyami-trainer](https://moggydaytrainer.com/en/f/casino-s-druzyami-trainer). Screenshots hotlink MoggyDay `/media/` assets.
